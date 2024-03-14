@@ -1,0 +1,73 @@
+{
+    "products": [
+        {
+            "id":1,
+            "name":"|한정수량| 릴리바이레드 리틀 비티 모먼트 섀도우 12호 시린 찰나의 깨끗함",
+            "percent":34,
+            "disPrice":6500,
+            "price":9900,
+            "image": "https://eunyyi.github.io/project.github.io/assets/item/item1.jpeg",
+            "optionList" : ["12호 시린 찰나의 깨끗함"]
+        },
+        {
+            "id":2,
+            "name":"[EVENT] 포도바 없는 릴바레에서 포도바 찾기 #인생퍼플립",
+            "percent":35,
+            "disPrice":6500,
+            "price":10000,
+            "image": "https://eunyyi.github.io/project.github.io/assets/item/item2.jpeg",
+            "optionList" : ["01 #구아바 모히토인 척(L254A)", "02 #체리 크러쉬인 척(L255A)", "03 #플럼 마티니인 척(L256A)"
+            , "04 #블랙베리 데낄라인 척(L257A)", "05 #핑크레몬 피즈인 척(L258A)", "06 #리치 샹그리아인 척(L259A)", "07 #오렌지 마가리타인 척(L260A)"
+            , "08 #핑크커런트 펀치인 척(L261A)"]
+        },
+        {
+            "id":3,
+            "name":"[큐피드클럽] 릴리바이레드 브이아이피 멤버십 키트",
+            "percent":19,
+            "disPrice":21900,
+            "price":27000,
+            "image": "https://eunyyi.github.io/project.github.io/assets/item/item3.jpeg",
+            "optionList" : ["#웜브이아이피(L229L2)", "#쿨브이아이피(L230L2)"]
+        },
+        {
+            "id":4,
+            "name":"릴리바이레드 러브빔 블러 치크",
+            "percent":18,
+            "disPrice":10700,
+            "price":13000,
+            "image": "https://eunyyi.github.io/project.github.io/assets/item/item4.jpeg",
+            "optionList" : ["01 #체리블러(L231A)", "02 #복숭블러(L232A)", "03 #체다블러(L242A)", "04 #로즈블러(L283A)", "05 #라벤더블러(L284A)"]
+
+        },
+        {
+            "id":5,
+            "name":"릴리바이레드 탱글 젤리밤",
+            "percent":27,
+            "disPrice":11000,
+            "price":15000,
+            "image": "https://eunyyi.github.io/project.github.io/assets/item/item5.jpeg",
+            "optionList" : ["01 #살구 젤리 한 입(L289A)", "02 #복숭아 젤리 한 입(L290A)", "03 #사과 젤리 한 입(L291A)"
+            , "04 #리치 젤리 한 입(L292A)", "05 #타로 젤리 한입(L293A)", "06 #카야 젤리 한입(L294A)", "07 #자두 젤리 한입(L295A)"
+            , "08 #포도 젤리 한입(L296A)"]
+
+        },
+        {
+            "id":6,
+            "name":"[회원 only] 레이지앤코지 섀도우 팔레트",
+            "percent":55,
+            "disPrice":5500,
+            "price":45000,
+            "image": "https://eunyyi.github.io/project.github.io/assets/item/item6.jpeg",
+            "optionList": ["레이지앤코지 섀도우 팔레트(DW001FA)"]
+        },
+        {
+            "id":7,
+            "name":"릴리바이레드 러브빔 글로우 베일",
+            "percent":39,
+            "disPrice":8900,
+            "price":14500,
+            "image": "https://eunyyi.github.io/project.github.io/assets/item/item7.jpeg",
+            "optionList": ["01 #오묘빔 (L226A)", "02 #홀리빔 (L227A)", "03 #슈가빔(L228A) [품절]", "04 # 썬빔(L265A)"]
+        }
+    ]
+}
